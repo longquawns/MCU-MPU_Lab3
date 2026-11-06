@@ -1,0 +1,4 @@
+led_display.c:11:6:display7SEG_A	16	static
+led_display.c:21:6:display7SEG_B	16	static
+led_display.c:31:6:update7SEG	8	static
+led_display.c:48:6:clearAllLEDs	8	static
